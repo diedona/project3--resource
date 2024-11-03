@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="CalculationResource" load_steps=2 format=3 uid="uid://8mk52c07i0au"]
+
+[ext_resource type="Script" path="res://Scripts/calculation_resource.gd" id="1_6gi0f"]
+
+[resource]
+script = ExtResource("1_6gi0f")
+num1 = 2.0
+num2 = 4.25
+operation = 2
